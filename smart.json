@@ -5,7 +5,7 @@
   "author": "Arafat Rahman (http://arafatbd.net)",
   "version": "0.1",
   "git": "https://github.com/arobd/linkedin-reloaded.git",
-  "tag": "v0.1",
+  "tag": "v0.0.10",
   "packages": {
     "linkedin": "0.0.2"
   }
