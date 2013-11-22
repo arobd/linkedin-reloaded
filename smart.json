@@ -1,10 +1,10 @@
 {
   "name": "linkedin-reloaded",
-  "description": "Login service for LinkedIn",
-  "homepage": "https://bitbucket.org/arobd/linkedin-reloaded",
-  "author": "Arafat Rahman (http://www.facebook.com/arobd)",
+  "description": "Login service for LinkedIn (Reloaded)",
+  "homepage": "https://github.com/arobd/linkedin-reloaded",
+  "author": "Arafat Rahman (http://arafatbd.net)",
   "version": "0.1",
-  "git": "https://arobd@bitbucket.org/arobd/linkedin-reloaded.git",
+  "git": "https://github.com/arobd/linkedin-reloaded.git",
   "packages": {
     "linkedin": "0.0.2"
   }

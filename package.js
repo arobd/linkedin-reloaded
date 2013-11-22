@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Accounts service for LinkedIn accounts"
+  summary: "Accounts service for LinkedIn accounts (reloaded)"
 });
 
 Package.on_use(function(api) {

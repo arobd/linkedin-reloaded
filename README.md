@@ -1,7 +1,7 @@
 meteor-linkedin-reloaded
 ============================
 
-A meteor package for LinkedIn's login service.
+A meteor package for LinkedIn's login service (reloaded).
 
 Package Dependencies
 ----------------------
